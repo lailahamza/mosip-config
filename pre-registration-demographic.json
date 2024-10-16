@@ -263,7 +263,7 @@
            "validators":[
               {
                  "type":"regex",
-                 "validator":"^([6-9]{1})([0-9]{9})$",
+                 "validator":"^0([6-9]{1})([0-9]{8})$",
                  "arguments":[
 
                  ]
