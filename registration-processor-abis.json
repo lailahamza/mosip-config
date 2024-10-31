@@ -3,7 +3,7 @@
         "name": "ABIS",
         "host": "",
         "port": "",
-        "brokerUrl": "tcp://10.30.74.4:61616",
+        "brokerUrl": "tcp://10.30.74.4:5672",
         "inboundQueueName": "mosip-to-abis",
         "outboundQueueName": "abis-to-mosip",
         "pingInboundQueueName": "",
