@@ -1,10 +1,10 @@
 {
   "issuers": [
     {
-      "credential_issuer": "Mock-test",
+      "credential_issuer": "Mock",
       "display": [
         {
-          "name": "MOCK ID",
+          "name": "MOCK ID TEST",
           "logo": {
             "url": "https://mosip.io/images/mosipn-logo.png",
             "alt_text": "mosip-logo"
