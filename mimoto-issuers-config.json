@@ -1,7 +1,7 @@
 {
   "issuers": [
     {
-      "credential_issuer": "Mock",
+      "credential_issuer": "Mock-test",
       "display": [
         {
           "name": "MOCK ID",
