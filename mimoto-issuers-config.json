@@ -32,7 +32,7 @@
   	  ".well-known": "https://esignet.mosip.ma/v1/esignet/vci/.well-known/openid-credential-issuer?version=v11",
   	  "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
   	  "authorization_endpoint": "https://esignet.mosip.ma/authorize",
-  	  "authorization_audience": "https://esignet.mosip.ma/v1/esignet/oauth/v2/token",
+  	  "authorization_audience": "https://esignet.mosip.ma/v1/esignet/oauth/v2/token/111",
   	  "token_endpoint": "https://api.mosip.ma/v1/mimoto/get-token/Mock",
   	  "proxy_token_endpoint": "https://esignet.mosip.ma/v1/esignet/oauth/v2/token",
   	  "credential_endpoint": "https://esignet.mosip.ma/v1/esignet/vci/credential",
