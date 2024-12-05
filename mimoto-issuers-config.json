@@ -24,15 +24,15 @@
           "language": "ar"
         }
       ],
-  	  "protocol": "OpenId4VCI",
-  	  "client_id": "${mimoto.oidc.partner.clientid}",
-  	  "client_alias": "mpartner-default-mimotooidc",
-  	  "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
-  	  "authorization_audience": "https://esignet.mosip.ma/v1/esignet/oauth/v2/token",
-  	  "proxy_token_endpoint": "https://esignet.mosip.ma/v1/esignet/oauth/v2/token",
+      "protocol": "OpenId4VCI",
+      "client_id": "${mimoto.oidc.partner.clientid}",
+      "client_alias": "mpartner-default-mimotooidc",
+      "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
+      "authorization_audience": "https://esignet.mosip.ma/v1/esignet/oauth/v2/token",
+      "proxy_token_endpoint": "https://esignet.mosip.ma/v1/esignet/oauth/v2/token",
       "token_endpoint": "https://esignet.mosip.ma/v1/esignet/oauth/v2/token",
-  	  "credential_endpoint": "https://esignet.mosip.ma/v1/esignet/vci/credential",
-  	  "enabled": "true",
+      "credential_endpoint": "https://esignet.mosip.ma/v1/esignet/vci/credential",
+      "enabled": "true",
       "qr_code_type": "EmbeddedVC",
       "wellknown_endpoint": "https://inji.mosip.ma/v1/certify/issuance/.well-known/openid-credential-issuer"
     }   
