@@ -31,7 +31,7 @@
       "authorization_audience": "https://esignet.mosip.ma/v1/esignet/oauth/v2/token",
       "proxy_token_endpoint": "https://esignet.mosip.ma/v1/esignet/oauth/v2/token",
       "client_alias": "j3xRzU3SODdoNgSGvO_cD8UijH3AIWRDA",
-      "qr_code_type": "EmbeddedVC",
+      "qr_code_type": "OnlineSharing",
       "enabled": "true",
       "wellknown_endpoint": "https://inji.mosip.ma/v1/certify/issuance/.well-known/openid-credential-issuer"
     }   
