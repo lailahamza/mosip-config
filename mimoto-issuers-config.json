@@ -25,12 +25,12 @@
         }
       ],
       "protocol": "OpenId4VCI",
-      "client_id": "j3xRzU3SODdoNgSGvO_cD8UijH3AIWRDA",
+      "client_id": "inji-test",
       "redirect_uri": "io.mosip.residentapp.inji://oauthredirect",
       "token_endpoint": "https://api.mosip.ma/v1/mimoto/get-token/Mock",
       "authorization_audience": "https://esignet.mosip.ma/v1/esignet/oauth/v2/token",
       "proxy_token_endpoint": "https://esignet.mosip.ma/v1/esignet/oauth/v2/token",
-      "client_alias": "j3xRzU3SODdoNgSGvO_cD8UijH3AIWRDA",
+      "client_alias": "inji-test",
       "qr_code_type": "EmbeddedVC",
       "enabled": "true",
       "wellknown_endpoint": "https://inji.mosip.ma/v1/certify/issuance/.well-known/openid-credential-issuer"
